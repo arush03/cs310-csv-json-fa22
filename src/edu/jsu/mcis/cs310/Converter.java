@@ -1,3 +1,8 @@
+/*
+Austin Rush
+CS310 Individual Project 1: CSV-Json Conversion
+Due: 9/25/2022
+*/
 package edu.jsu.mcis.cs310;
 
 import java.io.*;
